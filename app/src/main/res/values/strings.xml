@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework_android_activity</string>
+    <string name="txBtnDate">Click me to get today date and time</string>
+    <string name="txBtnDay">Click me to get today day of the week</string>
+    <string name="txDate">Today date and time</string>
+    <string name="txDay">Day of the week</string>
+</resources>
